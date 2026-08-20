@@ -1,0 +1,2 @@
+- Node: only Node 22 works (20 too old, 26 too new)
+- anchor keys lsit -> check program id. anchor keys sync -> auto-updates declare_id! in libs but not the entry in anchor.toml line 10
